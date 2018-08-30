@@ -18,8 +18,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="GraphQL" Version="2.0.0" />
-    <PackageReference Include="OptionType" Version="0.0.1" />
+    <PackageReference Include="GraphQL" Version="2.*" />
+    <PackageReference Include="OptionType" Version="0.*" />
   </ItemGroup>
 
 </Project>
